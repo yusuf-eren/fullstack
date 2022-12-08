@@ -70,6 +70,18 @@ body {
   float: right;
 }
 
+.wrapper .box .item .send-time-right {
+  display: block;
+  margin-left: 66%;
+  margin-bottom: 5%;
+}
+
+.wrapper .box .item .send-time {
+  display: block;
+  margin-left: 5%;
+  margin-bottom: 5%;
+}
+
 .wrapper .box .item.right .msg {
   background: #cdcdcd;
   color: #333;
