@@ -8,7 +8,7 @@ I wanted to clarify a few things before starting.
 
 - I can not decided what to choose between localStorage and sessionStorage because It is supposed to show previous messages too (line 29 `assignment.md`). So I decided to go with localStorage because it is impossible to show previous data in local storage. One more option is saving in DB. I thought about this too but again, in `assignment.md`, it is a task on the client side. So I removed this idea too.
 
-- I especially wanted to clarify second one because I know the concept of the system design but there is no option for me when the instructions already declared :)
+- I especially wanted to clarify second one because I know the concept of the system design but there is no option for me when the instructions are already declared :)
 
 If any improvement requests or unexplained parts contact me at;
 [erenyusuf170@gmail.com](mailto:erenyusuf170@gmail.com)
